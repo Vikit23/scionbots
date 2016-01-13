@@ -1,0 +1,1 @@
+An open source runescape bot that is made by jaco and continued by the members of scionbot.com
